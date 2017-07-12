@@ -12,6 +12,25 @@
 		A60EB16A1F00B1F900A5B328 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A60EB1681F00B1F900A5B328 /* Main.storyboard */; };
 		A60EB16C1F00B1F900A5B328 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A60EB16B1F00B1F900A5B328 /* Assets.xcassets */; };
 		A60EB16F1F00B1F900A5B328 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A60EB16D1F00B1F900A5B328 /* LaunchScreen.storyboard */; };
+		A60EB1891F00B26800A5B328 /* _Snowman.png in Resources */ = {isa = PBXBuildFile; fileRef = A60EB1771F00B26800A5B328 /* _Snowman.png */; };
+		A60EB18A1F00B26800A5B328 /* 0617034009.png in Resources */ = {isa = PBXBuildFile; fileRef = A60EB1781F00B26800A5B328 /* 0617034009.png */; };
+		A60EB18B1F00B26800A5B328 /* animated-snow-image.gif in Resources */ = {isa = PBXBuildFile; fileRef = A60EB1791F00B26800A5B328 /* animated-snow-image.gif */; };
+		A60EB18C1F00B26800A5B328 /* Bell.png in Resources */ = {isa = PBXBuildFile; fileRef = A60EB17A1F00B26800A5B328 /* Bell.png */; };
+		A60EB18D1F00B26800A5B328 /* bgMain.png in Resources */ = {isa = PBXBuildFile; fileRef = A60EB17B1F00B26800A5B328 /* bgMain.png */; };
+		A60EB18E1F00B26800A5B328 /* christmas_1.png in Resources */ = {isa = PBXBuildFile; fileRef = A60EB17C1F00B26800A5B328 /* christmas_1.png */; };
+		A60EB18F1F00B26800A5B328 /* christmas_2.png in Resources */ = {isa = PBXBuildFile; fileRef = A60EB17D1F00B26800A5B328 /* christmas_2.png */; };
+		A60EB1901F00B26800A5B328 /* christmas_3.png in Resources */ = {isa = PBXBuildFile; fileRef = A60EB17E1F00B26800A5B328 /* christmas_3.png */; };
+		A60EB1911F00B26800A5B328 /* christmas_6.png in Resources */ = {isa = PBXBuildFile; fileRef = A60EB17F1F00B26800A5B328 /* christmas_6.png */; };
+		A60EB1921F00B26800A5B328 /* christmas_8.png in Resources */ = {isa = PBXBuildFile; fileRef = A60EB1801F00B26800A5B328 /* christmas_8.png */; };
+		A60EB1931F00B26800A5B328 /* christmas_10.png in Resources */ = {isa = PBXBuildFile; fileRef = A60EB1811F00B26800A5B328 /* christmas_10.png */; };
+		A60EB1941F00B26800A5B328 /* christmas_11.png in Resources */ = {isa = PBXBuildFile; fileRef = A60EB1821F00B26800A5B328 /* christmas_11.png */; };
+		A60EB1951F00B26800A5B328 /* christmas_12.png in Resources */ = {isa = PBXBuildFile; fileRef = A60EB1831F00B26800A5B328 /* christmas_12.png */; };
+		A60EB1961F00B26800A5B328 /* christmas_15.png in Resources */ = {isa = PBXBuildFile; fileRef = A60EB1841F00B26800A5B328 /* christmas_15.png */; };
+		A60EB1971F00B26800A5B328 /* christmas_18.png in Resources */ = {isa = PBXBuildFile; fileRef = A60EB1851F00B26800A5B328 /* christmas_18.png */; };
+		A60EB1981F00B26800A5B328 /* snowflake.png in Resources */ = {isa = PBXBuildFile; fileRef = A60EB1861F00B26800A5B328 /* snowflake.png */; };
+		A60EB1991F00B26800A5B328 /* snowman.png in Resources */ = {isa = PBXBuildFile; fileRef = A60EB1871F00B26800A5B328 /* snowman.png */; };
+		A60EB19A1F00B26800A5B328 /* xmas-04.png in Resources */ = {isa = PBXBuildFile; fileRef = A60EB1881F00B26800A5B328 /* xmas-04.png */; };
+		A60EB19E1F00B3F500A5B328 /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = A60EB19D1F00B3F500A5B328 /* Item.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +41,25 @@
 		A60EB16B1F00B1F900A5B328 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A60EB16E1F00B1F900A5B328 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A60EB1701F00B1F900A5B328 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A60EB1771F00B26800A5B328 /* _Snowman.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = _Snowman.png; sourceTree = "<group>"; };
+		A60EB1781F00B26800A5B328 /* 0617034009.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 0617034009.png; sourceTree = "<group>"; };
+		A60EB1791F00B26800A5B328 /* animated-snow-image.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "animated-snow-image.gif"; sourceTree = "<group>"; };
+		A60EB17A1F00B26800A5B328 /* Bell.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Bell.png; sourceTree = "<group>"; };
+		A60EB17B1F00B26800A5B328 /* bgMain.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bgMain.png; sourceTree = "<group>"; };
+		A60EB17C1F00B26800A5B328 /* christmas_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = christmas_1.png; sourceTree = "<group>"; };
+		A60EB17D1F00B26800A5B328 /* christmas_2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = christmas_2.png; sourceTree = "<group>"; };
+		A60EB17E1F00B26800A5B328 /* christmas_3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = christmas_3.png; sourceTree = "<group>"; };
+		A60EB17F1F00B26800A5B328 /* christmas_6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = christmas_6.png; sourceTree = "<group>"; };
+		A60EB1801F00B26800A5B328 /* christmas_8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = christmas_8.png; sourceTree = "<group>"; };
+		A60EB1811F00B26800A5B328 /* christmas_10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = christmas_10.png; sourceTree = "<group>"; };
+		A60EB1821F00B26800A5B328 /* christmas_11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = christmas_11.png; sourceTree = "<group>"; };
+		A60EB1831F00B26800A5B328 /* christmas_12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = christmas_12.png; sourceTree = "<group>"; };
+		A60EB1841F00B26800A5B328 /* christmas_15.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = christmas_15.png; sourceTree = "<group>"; };
+		A60EB1851F00B26800A5B328 /* christmas_18.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = christmas_18.png; sourceTree = "<group>"; };
+		A60EB1861F00B26800A5B328 /* snowflake.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = snowflake.png; sourceTree = "<group>"; };
+		A60EB1871F00B26800A5B328 /* snowman.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = snowman.png; sourceTree = "<group>"; };
+		A60EB1881F00B26800A5B328 /* xmas-04.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "xmas-04.png"; sourceTree = "<group>"; };
+		A60EB19D1F00B3F500A5B328 /* Item.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,14 +92,41 @@
 		A60EB1631F00B1F900A5B328 /* SampleGesture */ = {
 			isa = PBXGroup;
 			children = (
+				A60EB1761F00B23700A5B328 /* Resource */,
 				A60EB1641F00B1F900A5B328 /* AppDelegate.swift */,
 				A60EB1661F00B1F900A5B328 /* ViewController.swift */,
 				A60EB1681F00B1F900A5B328 /* Main.storyboard */,
 				A60EB16B1F00B1F900A5B328 /* Assets.xcassets */,
 				A60EB16D1F00B1F900A5B328 /* LaunchScreen.storyboard */,
 				A60EB1701F00B1F900A5B328 /* Info.plist */,
+				A60EB19D1F00B3F500A5B328 /* Item.swift */,
 			);
 			path = SampleGesture;
+			sourceTree = "<group>";
+		};
+		A60EB1761F00B23700A5B328 /* Resource */ = {
+			isa = PBXGroup;
+			children = (
+				A60EB1771F00B26800A5B328 /* _Snowman.png */,
+				A60EB1781F00B26800A5B328 /* 0617034009.png */,
+				A60EB1791F00B26800A5B328 /* animated-snow-image.gif */,
+				A60EB17A1F00B26800A5B328 /* Bell.png */,
+				A60EB17B1F00B26800A5B328 /* bgMain.png */,
+				A60EB17C1F00B26800A5B328 /* christmas_1.png */,
+				A60EB17D1F00B26800A5B328 /* christmas_2.png */,
+				A60EB17E1F00B26800A5B328 /* christmas_3.png */,
+				A60EB17F1F00B26800A5B328 /* christmas_6.png */,
+				A60EB1801F00B26800A5B328 /* christmas_8.png */,
+				A60EB1811F00B26800A5B328 /* christmas_10.png */,
+				A60EB1821F00B26800A5B328 /* christmas_11.png */,
+				A60EB1831F00B26800A5B328 /* christmas_12.png */,
+				A60EB1841F00B26800A5B328 /* christmas_15.png */,
+				A60EB1851F00B26800A5B328 /* christmas_18.png */,
+				A60EB1861F00B26800A5B328 /* snowflake.png */,
+				A60EB1871F00B26800A5B328 /* snowman.png */,
+				A60EB1881F00B26800A5B328 /* xmas-04.png */,
+			);
+			name = Resource;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -124,8 +189,26 @@
 			buildActionMask = 2147483647;
 			files = (
 				A60EB16F1F00B1F900A5B328 /* LaunchScreen.storyboard in Resources */,
+				A60EB1991F00B26800A5B328 /* snowman.png in Resources */,
+				A60EB1981F00B26800A5B328 /* snowflake.png in Resources */,
+				A60EB1921F00B26800A5B328 /* christmas_8.png in Resources */,
+				A60EB18A1F00B26800A5B328 /* 0617034009.png in Resources */,
+				A60EB1951F00B26800A5B328 /* christmas_12.png in Resources */,
+				A60EB19A1F00B26800A5B328 /* xmas-04.png in Resources */,
+				A60EB1961F00B26800A5B328 /* christmas_15.png in Resources */,
+				A60EB18E1F00B26800A5B328 /* christmas_1.png in Resources */,
+				A60EB18B1F00B26800A5B328 /* animated-snow-image.gif in Resources */,
+				A60EB18D1F00B26800A5B328 /* bgMain.png in Resources */,
+				A60EB1911F00B26800A5B328 /* christmas_6.png in Resources */,
+				A60EB1971F00B26800A5B328 /* christmas_18.png in Resources */,
+				A60EB1891F00B26800A5B328 /* _Snowman.png in Resources */,
+				A60EB18C1F00B26800A5B328 /* Bell.png in Resources */,
+				A60EB1941F00B26800A5B328 /* christmas_11.png in Resources */,
+				A60EB18F1F00B26800A5B328 /* christmas_2.png in Resources */,
 				A60EB16C1F00B1F900A5B328 /* Assets.xcassets in Resources */,
+				A60EB1931F00B26800A5B328 /* christmas_10.png in Resources */,
 				A60EB16A1F00B1F900A5B328 /* Main.storyboard in Resources */,
+				A60EB1901F00B26800A5B328 /* christmas_3.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,6 +220,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A60EB1671F00B1F900A5B328 /* ViewController.swift in Sources */,
+				A60EB19E1F00B3F500A5B328 /* Item.swift in Sources */,
 				A60EB1651F00B1F900A5B328 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
